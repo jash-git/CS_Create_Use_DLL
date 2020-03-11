@@ -1,0 +1,7 @@
+C:\Users\jashliao\Desktop\CS_Create_Use_DLL\code\testDLL\bin\Debug\testDLL.exe
+C:\Users\jashliao\Desktop\CS_Create_Use_DLL\code\testDLL\bin\Debug\testDLL.pdb
+C:\Users\jashliao\Desktop\CS_Create_Use_DLL\code\testDLL\bin\Debug\CS_Create_Use_DLL.dll
+C:\Users\jashliao\Desktop\CS_Create_Use_DLL\code\testDLL\bin\Debug\CS_Create_Use_DLL.pdb
+C:\Users\jashliao\Desktop\CS_Create_Use_DLL\code\testDLL\obj\Debug\testDLL.csprojResolveAssemblyReference.cache
+C:\Users\jashliao\Desktop\CS_Create_Use_DLL\code\testDLL\obj\Debug\testDLL.exe
+C:\Users\jashliao\Desktop\CS_Create_Use_DLL\code\testDLL\obj\Debug\testDLL.pdb

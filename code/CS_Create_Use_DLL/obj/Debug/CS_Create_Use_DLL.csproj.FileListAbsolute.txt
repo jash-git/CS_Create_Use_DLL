@@ -1,0 +1,10 @@
+C:\Users\jashliao\Desktop\CS_Create_Use_DLL\CS_Create_Use_DLL\bin\Debug\CS_Create_Use_DLL.dll
+C:\Users\jashliao\Desktop\CS_Create_Use_DLL\CS_Create_Use_DLL\bin\Debug\CS_Create_Use_DLL.pdb
+C:\Users\jashliao\Desktop\CS_Create_Use_DLL\CS_Create_Use_DLL\obj\Debug\CS_Create_Use_DLL.csprojResolveAssemblyReference.cache
+C:\Users\jashliao\Desktop\CS_Create_Use_DLL\CS_Create_Use_DLL\obj\Debug\CS_Create_Use_DLL.dll
+C:\Users\jashliao\Desktop\CS_Create_Use_DLL\CS_Create_Use_DLL\obj\Debug\CS_Create_Use_DLL.pdb
+C:\Users\jashliao\Desktop\CS_Create_Use_DLL\code\CS_Create_Use_DLL\bin\Debug\CS_Create_Use_DLL.dll
+C:\Users\jashliao\Desktop\CS_Create_Use_DLL\code\CS_Create_Use_DLL\bin\Debug\CS_Create_Use_DLL.pdb
+C:\Users\jashliao\Desktop\CS_Create_Use_DLL\code\CS_Create_Use_DLL\obj\Debug\CS_Create_Use_DLL.csprojResolveAssemblyReference.cache
+C:\Users\jashliao\Desktop\CS_Create_Use_DLL\code\CS_Create_Use_DLL\obj\Debug\CS_Create_Use_DLL.dll
+C:\Users\jashliao\Desktop\CS_Create_Use_DLL\code\CS_Create_Use_DLL\obj\Debug\CS_Create_Use_DLL.pdb
